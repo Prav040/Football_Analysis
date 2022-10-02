@@ -1,0 +1,519 @@
+club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status
+1. FC Köln,Robin Hack,22,Germany,Left Winger,LW,2000000.0,1.FC Nuremberg,Germany,2500000.0,in,summer,1 Bundesliga,2021,False,
+1. FC Köln,Guilherme Ramos,23,Portugal,Centre-Back,CB,1200000.0,Feirense,Portugal,1200000.0,in,summer,1 Bundesliga,2021,False,
+1. FC Köln,Florian Krüger,22,Germany,Centre-Forward,CF,1800000.0,Erzgebirge Aue,Germany,1000000.0,in,summer,1 Bundesliga,2021,False,
+1. FC Köln,Masaya Okugawa,25,Japan,Attacking Midfield,AM,5000000.0,RB Salzburg,Austria,1000000.0,in,summer,1 Bundesliga,2021,False,
+1. FC Köln,Bryan Lasme,22,France,Right Winger,RW,1000000.0,FC Sochaux,France,800000.0,in,summer,1 Bundesliga,2021,False,
+1. FC Köln,Patrick Wimmer,20,Austria,Right Winger,RW,8000000.0,Austria Vienna,Austria,700000.0,in,summer,1 Bundesliga,2021,False,
+1. FC Köln,Stefanos Kapino,27,Greece,Goalkeeper,GK,700000.0,Werder Bremen,Germany,300000.0,in,summer,1 Bundesliga,2021,False,
+1. FC Köln,Lennart Czyborra,22,Germany,Left-Back,LB,2300000.0,Genoa,Italy,85000.0,in,summer,1 Bundesliga,2021,True,loan with fee
+1. FC Köln,Janni Serra,23,Germany,Centre-Forward,CF,1800000.0,Holstein Kiel,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+1. FC Köln,Sebastian Vasiliadis,23,Greece,Central Midfield,CM,1800000.0,SC Paderborn,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+1. FC Köln,Alessandro Schöpf,27,Austria,Central Midfield,CM,2500000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+1. FC Köln,Edimilson Fernandes,25,Switzerland,Central Midfield,CM,2000000.0,1.FSV Mainz 05,Germany,0.0,in,summer,1 Bundesliga,2021,True,free loan
+1. FC Köln,Andrés Andrade,22,Panama,Centre-Back,CB,1500000.0,LASK,Austria,0.0,in,summer,1 Bundesliga,2021,True,free loan
+1. FC Köln,Sebastian Müller,20,Germany,Centre-Forward,CF,350000.0,VfL Osnabrück,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+1. FC Köln,Noel Niemann,21,Germany,Left Winger,LW,350000.0,Türkgücü Münch.,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+1. FC Köln,Can Hayri Özkan,21,Germany,Defensive Midfield,DM,150000.0,Naestved BK,Denmark,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+1. FC Köln,Mervin Kalac,19,Germany,Centre-Forward,CF,,SV Lippstadt 08,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+1. FC Köln,Joey Müller,20,Germany,Left-Back,LB,125000.0,Wuppertaler SV,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+1. FC Köln,Marcel Hartel,25,Germany,Central Midfield,CM,1800000.0,FC St. Pauli,Germany,350000.0,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Christian Gebauer,27,Austria,Right Winger,RW,500000.0,FC Ingolstadt,Germany,150000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+1. FC Köln,Nils Seufert,24,Germany,Central Midfield,CM,450000.0,Greuther Fürth,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Jóan Símun Edmundsson,29,Faroe Islands,Second Striker,SS,500000.0,Waasl.-Beveren,Belgium,0.0,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Can Hayri Özkan,21,Germany,Defensive Midfield,DM,150000.0,Düsseldorf II,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Andreas Voglsammer,29,Germany,Centre-Forward,CF,1200000.0,Union Berlin,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Mervin Kalac,19,Germany,Centre-Forward,CF,,SC Paderborn II,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Sven Schipplock,32,Germany,Centre-Forward,CF,100000.0,Stuttgart II,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Anderson Lucoqui,23,Angola,Left-Back,LB,1500000.0,1.FSV Mainz 05,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Cebio Soukou,28,Benin,Right Winger,RW,550000.0,SV Sandhausen,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Joey Müller,20,Germany,Left-Back,LB,125000.0,Schalke 04 II,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Sebastian Müller,20,Germany,Centre-Forward,CF,350000.0,E. Braunschweig,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+1. FC Köln,Oscar Linnér,24,Sweden,Goalkeeper,GK,300000.0,Brescia,Italy,0.0,out,summer,1 Bundesliga,2021,True,free loan
+1. FC Köln,Mike van der Hoorn,28,Netherlands,Centre-Back,CB,1600000.0,FC Utrecht,Netherlands,0.0,out,summer,1 Bundesliga,2021,True,free loan
+1. FC Köln,Jomaine Consbruch,19,Germany,Central Midfield,CM,450000.0,E. Braunschweig,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+1. FC Köln,Noel Niemann,21,Germany,Left Winger,LW,350000.0,TSV Hartberg,Austria,0.0,out,summer,1 Bundesliga,2021,True,free loan
+1. FC Köln,Nikolai Rehnen,24,Germany,Goalkeeper,GK,150000.0,Without Club,,,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Reinhold Yabo,29,Germany,Central Midfield,CM,,,,,out,summer,1 Bundesliga,2021,False,
+1. FC Köln,Michel Vlap,24,Netherlands,Attacking Midfield,AM,2000000.0,RSC Anderlecht,Belgium,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+1. FC Köln,Masaya Okugawa,25,Japan,Attacking Midfield,AM,5000000.0,RB Salzburg,Austria,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+1. FC Köln,Arne Maier,22,Germany,Central Midfield,CM,5500000.0,Hertha BSC,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+1. FC Köln,Ritsu Doan,23,Japan,Right Winger,RW,8000000.0,PSV Eindhoven,Netherlands,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+1. FC Köln,Sergio Córdova,23,Venezuela,Centre-Forward,CF,1000000.0,FC Augsburg,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+1. FC Köln,George Bello,20,United States,Left-Back,LB,2000000.0,Atlanta,United States,1800000.0,in,winter,1 Bundesliga,2021,False,
+1. FC Köln,Burak Ince,18,Turkey,Central Midfield,CM,1000000.0,Altinordu,Turkey,500000.0,in,winter,1 Bundesliga,2021,False,
+1. FC Köln,Gonzalo Castro,34,Germany,Central Midfield,CM,,Without Club,,,in,winter,1 Bundesliga,2021,False,
+1. FC Köln,Oscar Linnér,24,Sweden,Goalkeeper,GK,300000.0,Brescia,Italy,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+1. FC Köln,Oscar Linnér,24,Sweden,Goalkeeper,GK,300000.0,GIF Sundsvall,Sweden,0.0,out,winter,1 Bundesliga,2021,True,free loan
+1. FC Köln,Lennart Czyborra,22,Germany,Left-Back,LB,2300000.0,Genoa,Italy,0.0,out,winter,1 Bundesliga,2021,True,end of loan
+1. FC Köln,Edimilson Fernandes,25,Switzerland,Central Midfield,CM,2000000.0,1.FSV Mainz 05,Germany,0.0,out,winter,1 Bundesliga,2021,True,end of loan
+1.FC Union Berlin,Odilon Kossounou,20,Cote d'Ivoire,Centre-Back,CB,20000000.0,Club Brugge,Belgium,23000000.0,in,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Amine Adli,21,France,Right Winger,RW,12000000.0,Toulouse,France,7500000.0,in,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Mitchel Bakker,21,Netherlands,Left-Back,LB,12000000.0,Paris SG,France,7000000.0,in,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Robert Andrich,26,Germany,Central Midfield,CM,13000000.0,Union Berlin,Germany,6500000.0,in,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Piero Hincapié,19,Ecuador,Centre-Back,CB,22000000.0,CA Talleres,Argentina,6350000.0,in,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Zidan Sertdemir,16,Denmark,Central Midfield,CM,2000000.0,Nordsjaell. U19,Denmark,2500000.0,in,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Andrey Lunev,29,Russia,Goalkeeper,GK,2500000.0,Zenit S-Pb,Russia,0.0,in,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Panagiotis Retsos,22,Greece,Centre-Back,CB,2800000.0,Saint-Étienne,France,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+1.FC Union Berlin,Joel Pohjanpalo,26,Finland,Centre-Forward,CF,2500000.0,Union Berlin,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+1.FC Union Berlin,Leon Bailey,23,Jamaica,Left Winger,LW,25000000.0,Aston Villa,England,32000000.0,out,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Wendell,28,Brazil,Left-Back,LB,5000000.0,FC Porto,Portugal,4300000.0,out,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Tin Jedvaj,25,Croatia,Centre-Back,CB,4000000.0,Loko Moscow,Russia,4000000.0,out,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Demarai Gray,25,England,Left Winger,LW,22000000.0,Everton,England,2000000.0,out,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Cem Türkmen,19,Turkey,Central Midfield,CM,400000.0,Clermont Foot,France,0.0,out,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Aleksandar Dragovic,30,Austria,Centre-Back,CB,5000000.0,Red Star,Serbia,0.0,out,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Sven Bender,32,Germany,Defensive Midfield,DM,,TSV Brannenburg,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Lars Bender,32,Germany,Defensive Midfield,DM,,TSV Brannenburg,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+1.FC Union Berlin,Yannik Schlößer,19,Germany,Right Winger,RW,75000.0,Nuremberg II,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+1.FC Union Berlin,Joel Pohjanpalo,26,Finland,Centre-Forward,CF,2500000.0,C. Rizespor,Turkey,0.0,out,summer,1 Bundesliga,2021,True,free loan
+1.FC Union Berlin,Lennart Grill,22,Germany,Goalkeeper,GK,1000000.0,Brann,Norway,0.0,out,summer,1 Bundesliga,2021,True,free loan
+1.FC Union Berlin,Mitchell Weiser,27,Germany,Right-Back,RB,2000000.0,Werder Bremen,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+1.FC Union Berlin,Santiago Arias,29,Colombia,Right-Back,RB,4000000.0,Atlético Madrid,Spain,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+1.FC Union Berlin,Sardar Azmoun,27,Iran,Centre-Forward,CF,18000000.0,Zenit S-Pb,Russia,2500000.0,in,winter,1 Bundesliga,2021,False,
+1.FC Union Berlin,Lennart Grill,22,Germany,Goalkeeper,GK,1000000.0,Brann,Norway,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+1.FC Union Berlin,Emrehan Gedikli,18,Germany,Centre-Forward,CF,1200000.0,Trabzonspor,Turkey,800000.0,out,winter,1 Bundesliga,2021,False,
+1.FC Union Berlin,Panagiotis Retsos,23,Greece,Centre-Back,CB,2800000.0,Hellas Verona,Italy,0.0,out,winter,1 Bundesliga,2021,False,
+1.FC Union Berlin,Nadiem Amiri,25,Germany,Central Midfield,CM,6000000.0,Genoa,Italy,0.0,out,winter,1 Bundesliga,2021,True,free loan
+1.FSV Mainz 05,David Raum,23,Germany,Left-Back,LB,26000000.0,Greuther Fürth,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+1.FSV Mainz 05,Angelo Stiller,20,Germany,Defensive Midfield,DM,7000000.0,FC Bayern II,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+1.FSV Mainz 05,Sebastian Rudy,31,Germany,Defensive Midfield,DM,1500000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+1.FSV Mainz 05,Chris Richards,21,United States,Centre-Back,CB,12000000.0,Bayern Munich,Germany,0.0,in,summer,1 Bundesliga,2021,True,free loan
+1.FSV Mainz 05,Justin Hoogma,23,Netherlands,Centre-Back,CB,1000000.0,FC Utrecht,Netherlands,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+1.FSV Mainz 05,Jacob Bruun Larsen,22,Denmark,Left Winger,LW,6000000.0,RSC Anderlecht,Belgium,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+1.FSV Mainz 05,Ishak Belfodil,29,Algeria,Centre-Forward,CF,2200000.0,Hertha BSC,Germany,500000.0,out,summer,1 Bundesliga,2021,False,
+1.FSV Mainz 05,Maximilian Beier,18,Germany,Centre-Forward,CF,3000000.0,Hannover 96,Germany,50000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+1.FSV Mainz 05,Justin Hoogma,23,Netherlands,Centre-Back,CB,1000000.0,Greuther Fürth,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+1.FSV Mainz 05,Konstantinos Stafylidis,27,Greece,Left-Back,LB,1800000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+1.FSV Mainz 05,Ryan Sessegnon,21,England,Left Midfield,LM,22000000.0,Spurs,England,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+1.FSV Mainz 05,Sebastian Rudy,31,Germany,Defensive Midfield,DM,1500000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+1.FSV Mainz 05,Chris Richards,21,United States,Centre-Back,CB,12000000.0,Bayern Munich,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+1.FSV Mainz 05,Justin Che,18,United States,Centre-Back,CB,3000000.0,Dallas,United States,0.0,in,winter,1 Bundesliga,2021,True,free loan
+1.FSV Mainz 05,Lucas Ribeiro,22,Brazil,Centre-Back,CB,2000000.0,Internacional,Brazil,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+1.FSV Mainz 05,João Klauss,24,Brazil,Centre-Forward,CF,3000000.0,Standard Liège,Belgium,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+1.FSV Mainz 05,Bruno Nazário,26,Brazil,Attacking Midfield,AM,800000.0,América-MG,Brazil,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+1.FSV Mainz 05,Justin Hoogma,23,Netherlands,Centre-Back,CB,1000000.0,Greuther Fürth,Germany,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+1.FSV Mainz 05,João Klauss,24,Brazil,Centre-Forward,CF,3000000.0,Sint-Truiden,Belgium,200000.0,out,winter,1 Bundesliga,2021,True,loan with fee
+1.FSV Mainz 05,Sargis Adamyan,28,Armenia,Centre-Forward,CF,2500000.0,Club Brugge,Belgium,100000.0,out,winter,1 Bundesliga,2021,True,loan with fee
+1.FSV Mainz 05,Joshua Brenet,27,Netherlands,Right-Back,RB,2000000.0,Twente FC,Netherlands,0.0,out,winter,1 Bundesliga,2021,False,
+1.FSV Mainz 05,Bruno Nazário,26,Brazil,Attacking Midfield,AM,800000.0,Vasco da Gama,Brazil,0.0,out,winter,1 Bundesliga,2021,False,
+1.FSV Mainz 05,Justin Hoogma,23,Netherlands,Centre-Back,CB,1000000.0,Heracles Almelo,Netherlands,,out,winter,1 Bundesliga,2021,False,
+1.FSV Mainz 05,Melayro Bogarde,19,Netherlands,Defensive Midfield,DM,1200000.0,FC Groningen,Netherlands,0.0,out,winter,1 Bundesliga,2021,True,free loan
+1.FSV Mainz 05,Lucas Ribeiro,23,Brazil,Centre-Back,CB,2000000.0,Ceará SC,Brazil,0.0,out,winter,1 Bundesliga,2021,True,free loan
+1.FSV Mainz 05,Mijat Gacinovic,26,Serbia,Attacking Midfield,AM,2500000.0,Panathinaikos,Greece,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Arminia Bielefeld,Suat Serdar,24,Germany,Central Midfield,CM,8000000.0,FC Schalke 04,Germany,8000000.0,in,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Marco Richter,23,Germany,Right Winger,RW,6000000.0,FC Augsburg,Germany,7100000.0,in,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Myziane Maolida,22,France,Left Winger,LW,3000000.0,OGC Nice,France,4000000.0,in,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Jurgen Ekkelenkamp,21,Netherlands,Central Midfield,CM,5000000.0,Ajax,Netherlands,3000000.0,in,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Oliver Christensen,22,Denmark,Goalkeeper,GK,3000000.0,Odense BK,Denmark,3000000.0,in,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Ishak Belfodil,29,Algeria,Centre-Forward,CF,2200000.0,TSG Hoffenheim,Germany,500000.0,in,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Kevin-Prince Boateng,34,Ghana,Attacking Midfield,AM,900000.0,Monza,Italy,0.0,in,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Stevan Jovetic,31,Montenegro,Centre-Forward,CF,2500000.0,Monaco,France,0.0,in,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Dennis Jastrzembski,21,Germany,Left Winger,LW,800000.0,Waldh. Mannheim,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Arminia Bielefeld,Arne Maier,22,Germany,Central Midfield,CM,5500000.0,Arm. Bielefeld,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Arminia Bielefeld,Davie Selke,26,Germany,Centre-Forward,CF,1800000.0,Werder Bremen,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Arminia Bielefeld,Matheus Cunha,22,Brazil,Centre-Forward,CF,30000000.0,Atlético Madrid,Spain,26000000.0,out,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Jhon Córdoba,28,Colombia,Centre-Forward,CF,13000000.0,Krasnodar,Russia,20000000.0,out,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Luca Netz,18,Germany,Left-Back,LB,6500000.0,Bor. M'gladbach,Germany,2000000.0,out,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Arne Maier,22,Germany,Central Midfield,CM,5500000.0,FC Augsburg,Germany,500000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+Arminia Bielefeld,Mathew Leckie,30,Australia,Left Winger,LW,1000000.0,Melbourne City,Australia,0.0,out,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Javairô Dilrosun,23,Netherlands,Left Winger,LW,6000000.0,G. Bordeaux,France,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Arminia Bielefeld,Daishawn Redan,20,Netherlands,Centre-Forward,CF,1000000.0,PEC Zwolle,Netherlands,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Arminia Bielefeld,Dodi Lukébakio,23,Belgium,Right Winger,RW,7500000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Arminia Bielefeld,Omar Alderete,24,Paraguay,Centre-Back,CB,7000000.0,Valencia,Spain,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Arminia Bielefeld,Jessic Ngankam,20,Germany,Centre-Forward,CF,2000000.0,Greuther Fürth,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Arminia Bielefeld,Eduard Löwen,24,Germany,Central Midfield,CM,2000000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Arminia Bielefeld,Sami Khedira,34,Germany,Central Midfield,CM,,,,,out,summer,1 Bundesliga,2021,False,
+Arminia Bielefeld,Nemanja Radonjić,25,Serbia,Left Winger,LW,4000000.0,Marseille,France,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Arminia Bielefeld,Mattéo Guendouzi,22,France,Central Midfield,CM,25000000.0,Arsenal,England,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Arminia Bielefeld,Dong-jun Lee,24,"Korea, South",Right Winger,RW,1200000.0,Ulsan Hyundai,"Korea, South",800000.0,in,winter,1 Bundesliga,2021,False,
+Arminia Bielefeld,Marc Oliver Kempf,26,Germany,Centre-Back,CB,4500000.0,VfB Stuttgart,Germany,500000.0,in,winter,1 Bundesliga,2021,False,
+Arminia Bielefeld,Kelian Nsona,19,France,Right Winger,RW,1200000.0,SM Caen,France,500000.0,in,winter,1 Bundesliga,2021,False,
+Arminia Bielefeld,Fredrik Björkan,23,Norway,Left-Back,LB,2500000.0,Bodø/Glimt,Norway,0.0,in,winter,1 Bundesliga,2021,False,
+Arminia Bielefeld,Dennis Jastrzembski,21,Germany,Left Winger,LW,800000.0,Slask Wroclaw,Poland,0.0,out,winter,1 Bundesliga,2021,False,
+Arminia Bielefeld,Krzysztof Piatek,26,Poland,Centre-Forward,CF,12000000.0,Fiorentina,Italy,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Arminia Bielefeld,Deyovaisio Zeefuik,23,Netherlands,Right-Back,RB,1500000.0,Blackburn,England,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Arminia Bielefeld,Jordan Torunarigha,24,Germany,Centre-Back,CB,5000000.0,KAA Gent,Belgium,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Bayer 04 Leverkusen,Jesper Lindström,21,Denmark,Attacking Midfield,AM,17000000.0,Bröndby IF,Denmark,7000000.0,in,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Sam Lammers,24,Netherlands,Centre-Forward,CF,3000000.0,Atalanta BC,Italy,3600000.0,in,summer,1 Bundesliga,2021,True,loan with fee
+Bayer 04 Leverkusen,Jens Petter Hauge,21,Norway,Right Winger,RW,8000000.0,AC Milan,Italy,2000000.0,in,summer,1 Bundesliga,2021,True,loan with fee
+Bayer 04 Leverkusen,Igor Matanovic,18,Croatia,Centre-Forward,CF,1000000.0,FC St. Pauli,Germany,500000.0,in,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Jens Grahl,32,Germany,Goalkeeper,GK,200000.0,VfB Stuttgart,Germany,250000.0,in,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Diant Ramaj,19,Germany,Goalkeeper,GK,750000.0,1.FC Heidenheim,Germany,100000.0,in,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Enrique Herrero,16,Spain,Centre-Forward,CF,300000.0,Villarreal Yth.,Spain,0.0,in,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Rafael Borré,25,Colombia,Centre-Forward,CF,20000000.0,River Plate,Argentina,0.0,in,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Fabio Blanco,17,Spain,Right Winger,RW,750000.0,Valencia U19,Spain,0.0,in,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Christopher Lenz,26,Germany,Left-Back,LB,4000000.0,Union Berlin,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Kristijan Jakic,24,Croatia,Defensive Midfield,DM,9000000.0,Dinamo Zagreb,Croatia,0.0,in,summer,1 Bundesliga,2021,True,free loan
+Bayer 04 Leverkusen,Gonçalo Paciência,26,Portugal,Centre-Forward,CF,3000000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Bayer 04 Leverkusen,Rodrigo Zalazar,21,Uruguay,Attacking Midfield,AM,3500000.0,FC St. Pauli,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Bayer 04 Leverkusen,Dejan Joveljic,21,Serbia,Centre-Forward,CF,4000000.0,Wolfsberger AC,Austria,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Bayer 04 Leverkusen,Nils Stendera,20,Germany,Central Midfield,CM,50000.0,Lok Leipzig,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Bayer 04 Leverkusen,Danny da Costa,27,Germany,Right-Back,RB,2300000.0,1.FSV Mainz 05,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Bayer 04 Leverkusen,Frederik Rönnow,28,Denmark,Goalkeeper,GK,2800000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Bayer 04 Leverkusen,André Silva,25,Portugal,Centre-Forward,CF,27000000.0,RB Leipzig,Germany,23000000.0,out,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Dejan Joveljic,21,Serbia,Centre-Forward,CF,4000000.0,Los Angeles,United States,3500000.0,out,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Frederik Rönnow,28,Denmark,Goalkeeper,GK,2800000.0,Union Berlin,Germany,1000000.0,out,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Steven Zuber,30,Switzerland,Left Winger,LW,2500000.0,AEK Athens,Greece,400000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+Bayer 04 Leverkusen,Yannick Brugger,20,Germany,Centre-Back,CB,250000.0,Admira Wacker,Austria,0.0,out,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Jabez Makanda,20,Angola,Attacking Midfield,AM,,FK Pirmasens,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Jetro Willems,27,Netherlands,Left-Back,LB,1000000.0,Greuther Fürth,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Igor Matanovic,18,Croatia,Centre-Forward,CF,1000000.0,FC St. Pauli,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Bayer 04 Leverkusen,Nils Stendera,20,Germany,Central Midfield,CM,50000.0,Hessen Kassel,Germany,,out,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Felix Irorere,19,Germany,Centre-Back,CB,200000.0,Karlsruher SC,Germany,,out,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Rodrigo Zalazar,21,Uruguay,Attacking Midfield,AM,3500000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Bayer 04 Leverkusen,Ali Akman,19,Turkey,Centre-Forward,CF,1200000.0,NEC Nijmegen,Netherlands,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Bayer 04 Leverkusen,Fynn Otto,19,Germany,Centre-Back,CB,150000.0,Hallescher FC,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Bayer 04 Leverkusen,Lukas Fahrnberger,20,Austria,Defensive Midfield,DM,200000.0,Without Club,,,out,summer,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Elias Bördner,19,Germany,Goalkeeper,GK,200000.0,Viktoria Köln,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Bayer 04 Leverkusen,Luka Jović,23,Serbia,Centre-Forward,CF,16000000.0,Real Madrid,Spain,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Bayer 04 Leverkusen,Markus Schubert,23,Germany,Goalkeeper,GK,600000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Bayer 04 Leverkusen,Ansgar Knauff,20,Germany,Right Winger,RW,10000000.0,Bor. Dortmund,Germany,400000.0,in,winter,1 Bundesliga,2021,True,loan with fee
+Bayer 04 Leverkusen,Fabio Blanco,17,Spain,Right Winger,RW,750000.0,Barcelona B,Spain,500000.0,out,winter,1 Bundesliga,2021,False,
+Bayer 04 Leverkusen,Martin Pecar,19,Slovenia,Left Winger,LW,250000.0,Austria Vienna,Austria,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Bayer 04 Leverkusen,Amin Younes,28,Germany,Left Winger,LW,1500000.0,SSC Napoli,Italy,0.0,out,winter,1 Bundesliga,2021,True,end of loan
+Borussia Dortmund,André Silva,25,Portugal,Centre-Forward,CF,27000000.0,E. Frankfurt,Germany,23000000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Josko Gvardiol,19,Croatia,Centre-Back,CB,60000000.0,Dinamo Zagreb,Croatia,18800000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Angeliño,24,Spain,Left-Back,LB,20000000.0,Man City,England,18000000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Ilaix Moriba,18,Guinea,Central Midfield,CM,9000000.0,Barcelona B,Spain,16000000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Mohamed Simakan,21,France,Centre-Back,CB,22000000.0,R. Strasbourg,France,15000000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Benjamin Henrichs,24,Germany,Right-Back,RB,18000000.0,Monaco,France,15000000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Caden Clark,18,United States,Attacking Midfield,AM,3000000.0,New York RB,United States,1820000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Brian Brobbey,19,Netherlands,Centre-Forward,CF,14000000.0,Ajax U21,Netherlands,0.0,in,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Ademola Lookman,23,Nigeria,Left Winger,LW,10000000.0,Fulham,England,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Borussia Dortmund,Hannes Wolf,22,Austria,Attacking Midfield,AM,4000000.0,Bor. M'gladbach,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Borussia Dortmund,Marcelo Saracchi,23,Uruguay,Left-Back,LB,2500000.0,Galatasaray,Turkey,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Borussia Dortmund,Dayot Upamecano,22,France,Centre-Back,CB,40000000.0,Bayern Munich,Germany,42500000.0,out,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Ibrahima Konaté,22,France,Centre-Back,CB,40000000.0,Liverpool,England,40000000.0,out,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Marcel Sabitzer,27,Austria,Central Midfield,CM,20000000.0,Bayern Munich,Germany,15000000.0,out,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Hannes Wolf,22,Austria,Attacking Midfield,AM,4000000.0,Bor. M'gladbach,Germany,9500000.0,out,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Lazar Samardzic,19,Germany,Attacking Midfield,AM,3500000.0,Udinese Calcio,Italy,3000000.0,out,summer,1 Bundesliga,2021,False,
+Borussia Dortmund,Alexander Sörloth,25,Norway,Centre-Forward,CF,10000000.0,Real Sociedad,Spain,2000000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+Borussia Dortmund,Ademola Lookman,23,Nigeria,Left Winger,LW,10000000.0,Leicester,England,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Borussia Dortmund,Hee-chan Hwang,25,"Korea, South",Centre-Forward,CF,16000000.0,Wolves,England,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Borussia Dortmund,Caden Clark,18,United States,Attacking Midfield,AM,3000000.0,New York RB,United States,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Borussia Dortmund,Fabrice Hartmann,20,Germany,Right Winger,RW,300000.0,SC Paderborn,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Borussia Dortmund,Justin Kluivert,22,Netherlands,Left Winger,LW,15000000.0,AS Roma,Italy,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Borussia Dortmund,Angeliño,24,Spain,Left-Back,LB,20000000.0,Man City,England,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Borussia Dortmund,Benjamin Henrichs,24,Germany,Right-Back,RB,18000000.0,Monaco,France,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Borussia Dortmund,Caden Clark,18,United States,Attacking Midfield,AM,3000000.0,New York RB,United States,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+Borussia Dortmund,Fabrice Hartmann,20,Germany,Right Winger,RW,300000.0,SC Paderborn,Germany,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+Borussia Dortmund,Luan Cândido,20,Brazil,Left-Back,LB,4000000.0,RB Bragantino,Brazil,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+Borussia Dortmund,Luan Cândido,20,Brazil,Left-Back,LB,4000000.0,RB Bragantino,Brazil,1500000.0,out,winter,1 Bundesliga,2021,False,
+Borussia Dortmund,Fabrice Hartmann,20,Germany,Right Winger,RW,300000.0,E. Braunschweig,Germany,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Borussia Dortmund,Ilaix Moriba,19,Guinea,Central Midfield,CM,9000000.0,Valencia,Spain,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Borussia Dortmund,Joscha Wosz,19,Germany,Attacking Midfield,AM,350000.0,Hallescher FC,Germany,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Borussia Dortmund,Caden Clark,18,United States,Attacking Midfield,AM,3000000.0,New York RB,United States,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Borussia Dortmund,Brian Brobbey,19,Netherlands,Centre-Forward,CF,14000000.0,Ajax,Netherlands,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Borussia Dortmund,Marcelo Saracchi,23,Uruguay,Left-Back,LB,2500000.0,Without Club,,,out,winter,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Taiwo Awoniyi,23,Nigeria,Centre-Forward,CF,20000000.0,Liverpool,England,8550000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Tymoteusz Puchacz,22,Poland,Left-Back,LB,1500000.0,Lech Poznan,Poland,2500000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Leon Dajaku,20,Germany,Second Striker,SS,1000000.0,FC Bayern II,Germany,1500000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Kevin Möhwald,28,Germany,Central Midfield,CM,1500000.0,Werder Bremen,Germany,1000000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Frederik Rönnow,28,Denmark,Goalkeeper,GK,2800000.0,E. Frankfurt,Germany,1000000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Keita Endo,23,Japan,Left Winger,LW,900000.0,Yokohama F. M.,Japan,900000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Rick van Drongelen,22,Netherlands,Centre-Back,CB,1000000.0,Hamburger SV,Germany,500000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Julius Kade,22,Germany,Central Midfield,CM,400000.0,Dynamo Dresden,Germany,500000.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Andreas Voglsammer,29,Germany,Centre-Forward,CF,1200000.0,Arm. Bielefeld,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Pawel Wszolek,29,Poland,Right Winger,RW,1200000.0,Legia Warszawa,Poland,0.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Kevin Behrens,30,Germany,Centre-Forward,CF,900000.0,SV Sandhausen,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Genki Haraguchi,30,Japan,Attacking Midfield,AM,2500000.0,Hannover 96,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Bastian Oczipka,32,Germany,Left-Back,LB,600000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Levin Öztunali,25,Germany,Central Midfield,CM,1500000.0,1.FSV Mainz 05,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Paul Jaeckel,22,Germany,Centre-Back,CB,7500000.0,Greuther Fürth,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Rani Khedira,27,Germany,Defensive Midfield,DM,6000000.0,FC Augsburg,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Timo Baumgartl,25,Germany,Centre-Back,CB,5000000.0,PSV Eindhoven,Netherlands,0.0,in,summer,1 Bundesliga,2021,True,free loan
+Borussia Mönchengladbach,Suleiman Abdullahi,24,Nigeria,Centre-Forward,CF,400000.0,E. Braunschweig,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Borussia Mönchengladbach,Nicolai Rapp,24,Germany,Central Midfield,CM,800000.0,Darmstadt 98,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Borussia Mönchengladbach,Laurenz Dehl,19,Germany,Right-Back,RB,250000.0,Hallescher FC,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Borussia Mönchengladbach,Robert Andrich,26,Germany,Central Midfield,CM,13000000.0,Bay. Leverkusen,Germany,6500000.0,out,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Marius Bülter,28,Germany,Left Winger,LW,2500000.0,FC Schalke 04,Germany,800000.0,out,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Marcus Ingvartsen,25,Denmark,Centre-Forward,CF,2500000.0,1.FSV Mainz 05,Germany,600000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+Borussia Mönchengladbach,Julius Kade,22,Germany,Central Midfield,CM,400000.0,Dynamo Dresden,Germany,500000.0,out,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Sebastian Griesbeck,30,Germany,Centre-Back,CB,700000.0,Greuther Fürth,Germany,250000.0,out,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Nicolai Rapp,24,Germany,Central Midfield,CM,800000.0,Werder Bremen,Germany,200000.0,out,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Akaki Gogia,29,Germany,Right Winger,RW,500000.0,FC Zürich,Switzerland,0.0,out,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Florian Hübner,30,Germany,Centre-Back,CB,500000.0,1.FC Nuremberg,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Christian Gentner,35,Germany,Central Midfield,CM,250000.0,FC Luzern,Switzerland,0.0,out,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Christopher Lenz,26,Germany,Left-Back,LB,4000000.0,E. Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Nikolai Kemlein,19,Germany,Goalkeeper,GK,50000.0,Hertha BSC II,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Leon Dajaku,20,Germany,Second Striker,SS,1000000.0,Sunderland,England,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Borussia Mönchengladbach,Petar Musa,23,Croatia,Centre-Forward,CF,5000000.0,Slavia Prague,Czech Republic,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Borussia Mönchengladbach,Leon Dajaku,20,Germany,Second Striker,SS,1000000.0,FC Bayern II,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Borussia Mönchengladbach,Joel Pohjanpalo,26,Finland,Centre-Forward,CF,2500000.0,Bay. Leverkusen,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Borussia Mönchengladbach,Loris Karius,28,Germany,Goalkeeper,GK,1500000.0,Liverpool,England,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Borussia Mönchengladbach,Taiwo Awoniyi,23,Nigeria,Centre-Forward,CF,20000000.0,Liverpool,England,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Borussia Mönchengladbach,Nico Schlotterbeck,21,Germany,Centre-Back,CB,33000000.0,SC Freiburg,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Borussia Mönchengladbach,Keita Endo,23,Japan,Left Winger,LW,900000.0,Yokohama F. M.,Japan,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Borussia Mönchengladbach,Sven Michel,31,Germany,Centre-Forward,CF,1200000.0,SC Paderborn,Germany,2500000.0,in,winter,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,András Schäfer,22,Hungary,Central Midfield,CM,2000000.0,Dunajska Streda,Slovakia,1000000.0,in,winter,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Dominique Heintz,28,Germany,Centre-Back,CB,2500000.0,SC Freiburg,Germany,150000.0,in,winter,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Marvin Friedrich,26,Germany,Centre-Back,CB,8000000.0,Bor. M'gladbach,Germany,5500000.0,out,winter,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Max Kruse,33,Germany,Second Striker,SS,1500000.0,VfL Wolfsburg,Germany,5000000.0,out,winter,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Tymoteusz Puchacz,22,Poland,Left-Back,LB,1500000.0,Trabzonspor,Turkey,200000.0,out,winter,1 Bundesliga,2021,True,loan with fee
+Borussia Mönchengladbach,Cedric Teuchert,24,Germany,Centre-Forward,CF,900000.0,Hannover 96,Germany,,out,winter,1 Bundesliga,2021,False,
+Borussia Mönchengladbach,Fabio Schneider,19,Germany,Central Midfield,CM,200000.0,KuPS,Finland,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Borussia Mönchengladbach,Pawel Wszolek,29,Poland,Right Winger,RW,1200000.0,Legia Warszawa,Poland,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Borussia Mönchengladbach,Rick van Drongelen,23,Netherlands,Centre-Back,CB,1000000.0,KV Mechelen,Belgium,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Eintracht Frankfurt,Sebastiaan Bornauw,22,Belgium,Centre-Back,CB,10000000.0,1. FC Köln,Germany,13500000.0,in,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Luca Waldschmidt,25,Germany,Second Striker,SS,7000000.0,Benfica,Portugal,12000000.0,in,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Aster Vranckx,18,Belgium,Central Midfield,CM,10000000.0,KV Mechelen,Belgium,8000000.0,in,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Lukas Nmecha,22,Germany,Centre-Forward,CF,18000000.0,Man City,England,8000000.0,in,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Maximilian Philipp,27,Germany,Second Striker,SS,4500000.0,Dynamo Moscow,Russia,7500000.0,in,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Micky van de Ven,20,Netherlands,Centre-Back,CB,8000000.0,FC Volendam,Netherlands,3500000.0,in,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Felix Nmecha,20,Germany,Attacking Midfield,AM,2000000.0,Man City U23,England,0.0,in,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Yun-sang Hong,19,"Korea, South",Left Winger,LW,150000.0,Pohang Steelers,"Korea, South",,in,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Dodi Lukébakio,23,Belgium,Right Winger,RW,7500000.0,Hertha BSC,Germany,0.0,in,summer,1 Bundesliga,2021,True,free loan
+Eintracht Frankfurt,Elvis Rexhbecaj,23,Germany,Central Midfield,CM,2500000.0,1. FC Köln,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Eintracht Frankfurt,William,26,Brazil,Right-Back,RB,2500000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Eintracht Frankfurt,Felix Klaus,28,Germany,Right Winger,RW,1000000.0,F. Düsseldorf,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Eintracht Frankfurt,Omar Marmoush,22,Egypt,Left Winger,LW,6000000.0,FC St. Pauli,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Eintracht Frankfurt,Marvin Stefaniak,26,Germany,Left Winger,LW,225000.0,Dynamo Dresden,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Eintracht Frankfurt,Victor Sá,27,Brazil,Left Winger,LW,2500000.0,Al-Jazira,United Arab Emirates,2850000.0,out,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Felix Klaus,28,Germany,Right Winger,RW,1000000.0,F. Düsseldorf,Germany,1100000.0,out,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Josip Brekalo,23,Croatia,Left Winger,LW,10000000.0,Torino,Italy,1000000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+Eintracht Frankfurt,Tim Siersleben,21,Germany,Centre-Back,CB,400000.0,1.FC Heidenheim,Germany,150000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+Eintracht Frankfurt,Marcel Beifus,18,Germany,Centre-Back,CB,400000.0,FC St. Pauli,Germany,100000.0,out,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Jeffrey Bruma,29,Netherlands,Centre-Back,CB,450000.0,Kasimpasa,Turkey,0.0,out,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Lino Kasten,20,Germany,Goalkeeper,GK,250000.0,SKN St. Pölten,Austria,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Eintracht Frankfurt,Ulysses Llanez,20,United States,Left Winger,LW,300000.0,SKN St. Pölten,Austria,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Eintracht Frankfurt,Marin Pongracic,23,Croatia,Centre-Back,CB,6000000.0,Bor. Dortmund,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Eintracht Frankfurt,Omar Marmoush,22,Egypt,Left Winger,LW,6000000.0,VfB Stuttgart,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Eintracht Frankfurt,Yun-sang Hong,19,"Korea, South",Left Winger,LW,150000.0,SKN St. Pölten,Austria,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Eintracht Frankfurt,Elvis Rexhbecaj,23,Germany,Central Midfield,CM,2500000.0,VfL Bochum,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Eintracht Frankfurt,Bryang Kayo,19,United States,Central Midfield,CM,150000.0,Viktoria Berlin,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Eintracht Frankfurt,Dominik Marx,21,Germany,Central Midfield,CM,,Without Club,,,out,summer,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Maximilian Philipp,27,Germany,Second Striker,SS,4500000.0,Dynamo Moscow,Russia,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Eintracht Frankfurt,Jonas Wind,22,Denmark,Centre-Forward,CF,14000000.0,FC Copenhagen,Denmark,12000000.0,in,winter,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Kevin Paredes,18,United States,Left Midfield,LM,5000000.0,D.C. United,United States,6680000.0,in,winter,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Max Kruse,33,Germany,Second Striker,SS,1500000.0,Union Berlin,Germany,5000000.0,in,winter,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Bryang Kayo,19,United States,Central Midfield,CM,150000.0,Viktoria Berlin,Germany,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+Eintracht Frankfurt,Wout Weghorst,29,Netherlands,Centre-Forward,CF,14000000.0,Burnley,England,17500000.0,out,winter,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Admir Mehmedi,30,Switzerland,Second Striker,SS,1000000.0,Antalyaspor,Turkey,0.0,out,winter,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Marvin Stefaniak,26,Germany,Left Winger,LW,225000.0,Würzb. Kickers,Germany,0.0,out,winter,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Daniel Ginczek,30,Germany,Centre-Forward,CF,900000.0,F. Düsseldorf,Germany,,out,winter,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Jannis Lang,19,Germany,Centre-Back,CB,200000.0,Erzgebirge Aue,Germany,,out,winter,1 Bundesliga,2021,False,
+Eintracht Frankfurt,Josuha Guilavogui,31,France,Defensive Midfield,DM,3500000.0,G. Bordeaux,France,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Eintracht Frankfurt,Bryang Kayo,19,United States,Central Midfield,CM,150000.0,Nuremberg II,Germany,0.0,out,winter,1 Bundesliga,2021,True,free loan
+FC Augsburg,Anton Stach,22,Germany,Defensive Midfield,DM,13000000.0,Greuther Fürth,Germany,3500000.0,in,summer,1 Bundesliga,2021,False,
+FC Augsburg,Silvan Widmer,28,Switzerland,Right-Back,RB,5000000.0,FC Basel,Switzerland,2500000.0,in,summer,1 Bundesliga,2021,False,
+FC Augsburg,Marcus Ingvartsen,25,Denmark,Centre-Forward,CF,2500000.0,Union Berlin,Germany,600000.0,in,summer,1 Bundesliga,2021,True,loan with fee
+FC Augsburg,Jae-sung Lee,28,"Korea, South",Attacking Midfield,AM,3000000.0,Holstein Kiel,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+FC Augsburg,Anderson Lucoqui,23,Angola,Left-Back,LB,1500000.0,Arm. Bielefeld,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+FC Augsburg,Dong-won Ji,30,"Korea, South",Centre-Forward,CF,500000.0,E. Braunschweig,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+FC Augsburg,Issah Abass,22,Ghana,Left Winger,LW,600000.0,Twente FC,Netherlands,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+FC Augsburg,Aarón Martín,24,Spain,Left-Back,LB,5000000.0,Celta de Vigo,Spain,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+FC Augsburg,Florian Müller,23,Germany,Goalkeeper,GK,5500000.0,SC Freiburg,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+FC Augsburg,Jonathan Meier,21,Germany,Left-Back,LB,450000.0,Dynamo Dresden,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+FC Augsburg,Florian Müller,23,Germany,Goalkeeper,GK,5500000.0,VfB Stuttgart,Germany,5000000.0,out,summer,1 Bundesliga,2021,False,
+FC Augsburg,Pierre Kunde,25,Cameroon,Central Midfield,CM,2000000.0,Olympiacos,Greece,1800000.0,out,summer,1 Bundesliga,2021,False,
+FC Augsburg,Luca Kilian,21,Germany,Centre-Back,CB,4500000.0,1. FC Köln,Germany,250000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+FC Augsburg,Danny Latza,31,Germany,Central Midfield,CM,600000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+FC Augsburg,Levin Öztunali,25,Germany,Central Midfield,CM,1500000.0,Union Berlin,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+FC Augsburg,Phillipp Mwene,27,Austria,Right-Back,RB,3000000.0,PSV Eindhoven,Netherlands,0.0,out,summer,1 Bundesliga,2021,False,
+FC Augsburg,Robin Quaison,27,Sweden,Centre-Forward,CF,6000000.0,Ettifaq FC,Saudi Arabia,0.0,out,summer,1 Bundesliga,2021,False,
+FC Augsburg,Dong-won Ji,30,"Korea, South",Centre-Forward,CF,500000.0,FC Seoul,"Korea, South",,out,summer,1 Bundesliga,2021,False,
+FC Augsburg,Edimilson Fernandes,25,Switzerland,Central Midfield,CM,2000000.0,Arm. Bielefeld,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+FC Augsburg,Jonathan Meier,21,Germany,Left-Back,LB,450000.0,Hansa Rostock,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+FC Augsburg,Issah Abass,22,Ghana,Left Winger,LW,600000.0,HNK Rijeka,Croatia,0.0,out,summer,1 Bundesliga,2021,True,free loan
+FC Augsburg,Marlon Mustapha,20,Austria,Centre-Forward,CF,1000000.0,Admira Wacker,Austria,0.0,out,summer,1 Bundesliga,2021,True,free loan
+FC Augsburg,Robert Glatzel,27,Germany,Centre-Forward,CF,2500000.0,Cardiff,England,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+FC Augsburg,Danny da Costa,27,Germany,Right-Back,RB,2300000.0,E. Frankfurt,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+FC Augsburg,Delano Burgzorg,23,Netherlands,Left Winger,LW,2000000.0,Heracles Almelo,Netherlands,300000.0,in,winter,1 Bundesliga,2021,True,loan with fee
+FC Augsburg,Jean-Philippe Mateta,24,France,Centre-Forward,CF,10000000.0,Crystal Palace,England,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+FC Augsburg,Edimilson Fernandes,25,Switzerland,Central Midfield,CM,2000000.0,Arm. Bielefeld,Germany,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+FC Augsburg,Jean-Philippe Mateta,24,France,Centre-Forward,CF,10000000.0,Crystal Palace,England,11000000.0,out,winter,1 Bundesliga,2021,False,
+FC Augsburg,Ádám Szalai,34,Hungary,Centre-Forward,CF,500000.0,FC Basel,Switzerland,0.0,out,winter,1 Bundesliga,2021,False,
+FC Augsburg,Edimilson Fernandes,25,Switzerland,Central Midfield,CM,2000000.0,BSC Young Boys,Switzerland,0.0,out,winter,1 Bundesliga,2021,True,free loan
+Hertha BSC,Niklas Dorsch,23,Germany,Defensive Midfield,DM,10000000.0,KAA Gent,Belgium,7000000.0,in,summer,1 Bundesliga,2021,False,
+Hertha BSC,Arne Maier,22,Germany,Central Midfield,CM,5500000.0,Hertha BSC,Germany,500000.0,in,summer,1 Bundesliga,2021,True,loan with fee
+Hertha BSC,Daniel Klein,20,Germany,Goalkeeper,GK,200000.0,Hoffenheim II,Germany,200000.0,in,summer,1 Bundesliga,2021,False,
+Hertha BSC,Lasse Günther,18,Germany,Left Winger,LW,750000.0,FC Bayern U19,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+Hertha BSC,Andi Zeqiri,22,Switzerland,Centre-Forward,CF,2300000.0,Brighton,England,0.0,in,summer,1 Bundesliga,2021,True,free loan
+Hertha BSC,Maurice Malone,20,Germany,Centre-Forward,CF,800000.0,Wehen Wiesbaden,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Hertha BSC,Frederik Winther,20,Denmark,Centre-Back,CB,1000000.0,Lyngby BK,Denmark,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Hertha BSC,Jozo Stanic,22,Croatia,Right-Back,RB,300000.0,FSV Zwickau,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Hertha BSC,Kevin Danso,22,Austria,Centre-Back,CB,11000000.0,F. Düsseldorf,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Hertha BSC,Sergio Córdova,23,Venezuela,Centre-Forward,CF,1000000.0,Arm. Bielefeld,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+Hertha BSC,Marco Richter,23,Germany,Right Winger,RW,6000000.0,Hertha BSC,Germany,7100000.0,out,summer,1 Bundesliga,2021,False,
+Hertha BSC,Kevin Danso,22,Austria,Centre-Back,CB,11000000.0,Lens,France,5500000.0,out,summer,1 Bundesliga,2021,False,
+Hertha BSC,Maurice Malone,21,Germany,Centre-Forward,CF,800000.0,1.FC Heidenheim,Germany,200000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+Hertha BSC,Rani Khedira,27,Germany,Defensive Midfield,DM,6000000.0,Union Berlin,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+Hertha BSC,Marek Suchy,33,Czech Republic,Centre-Back,CB,250000.0,Mlada Boleslav,Czech Republic,0.0,out,summer,1 Bundesliga,2021,False,
+Hertha BSC,Lukas Petkov,20,Germany,Right Winger,RW,350000.0,SC Verl,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Hertha BSC,Jozo Stanic,22,Croatia,Right-Back,RB,300000.0,Wehen Wiesbaden,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Hertha BSC,Julian Schieber,32,Germany,Centre-Forward,CF,,,,,out,summer,1 Bundesliga,2021,False,
+Hertha BSC,Benjamin Leneis,22,Germany,Goalkeeper,GK,150000.0,1.FC Magdeburg,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+Hertha BSC,László Bénes,23,Slovakia,Central Midfield,CM,2000000.0,Bor. M'gladbach,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+Hertha BSC,Ricardo Pepi,18,United States,Centre-Forward,CF,9000000.0,Dallas,United States,16360000.0,in,winter,1 Bundesliga,2021,False,
+Hertha BSC,Sergio Córdova,24,Venezuela,Centre-Forward,CF,1000000.0,Salt Lake,United States,0.0,out,winter,1 Bundesliga,2021,True,free loan
+RB Leipzig,Dayot Upamecano,22,France,Centre-Back,CB,40000000.0,RB Leipzig,Germany,42500000.0,in,summer,1 Bundesliga,2021,False,
+RB Leipzig,Marcel Sabitzer,27,Austria,Central Midfield,CM,20000000.0,RB Leipzig,Germany,15000000.0,in,summer,1 Bundesliga,2021,False,
+RB Leipzig,Omar Richards,23,England,Left-Back,LB,7000000.0,Reading,England,0.0,in,summer,1 Bundesliga,2021,False,
+RB Leipzig,Sven Ulreich,32,Germany,Goalkeeper,GK,900000.0,Hamburger SV,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+RB Leipzig,Joshua Zirkzee,20,Netherlands,Centre-Forward,CF,11000000.0,Parma,Italy,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+RB Leipzig,Chris Richards,21,United States,Centre-Back,CB,12000000.0,TSG Hoffenheim,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+RB Leipzig,Adrian Fein,22,Germany,Defensive Midfield,DM,700000.0,PSV Eindhoven,Netherlands,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+RB Leipzig,Michaël Cuisance,21,France,Central Midfield,CM,4000000.0,Marseille,France,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+RB Leipzig,Christian Früchtl,21,Germany,Goalkeeper,GK,1000000.0,1.FC Nuremberg,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+RB Leipzig,Lars Lukas Mai,21,Germany,Centre-Back,CB,1000000.0,Darmstadt 98,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+RB Leipzig,David Alaba,29,Austria,Centre-Back,CB,55000000.0,Real Madrid,Spain,0.0,out,summer,1 Bundesliga,2021,False,
+RB Leipzig,Javi Martínez,32,Spain,Defensive Midfield,DM,3500000.0,Qatar SC,Qatar,0.0,out,summer,1 Bundesliga,2021,False,
+RB Leipzig,Ron-Thorben Hoffmann,22,Germany,Goalkeeper,GK,400000.0,Sunderland,England,0.0,out,summer,1 Bundesliga,2021,True,free loan
+RB Leipzig,Chris Richards,21,United States,Centre-Back,CB,12000000.0,TSG Hoffenheim,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+RB Leipzig,Joshua Zirkzee,20,Netherlands,Centre-Forward,CF,11000000.0,RSC Anderlecht,Belgium,0.0,out,summer,1 Bundesliga,2021,True,free loan
+RB Leipzig,Adrian Fein,22,Germany,Defensive Midfield,DM,700000.0,Greuther Fürth,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+RB Leipzig,Lars Lukas Mai,21,Germany,Centre-Back,CB,1000000.0,Werder Bremen,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+RB Leipzig,Alexander Nübel,24,Germany,Goalkeeper,GK,10000000.0,Monaco,France,0.0,out,summer,1 Bundesliga,2021,True,free loan
+RB Leipzig,Jérôme Boateng,32,Germany,Centre-Back,CB,2500000.0,Without Club,,,out,summer,1 Bundesliga,2021,False,
+RB Leipzig,Tiago Dantas,20,Portugal,Central Midfield,CM,2500000.0,Benfica,Portugal,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+RB Leipzig,Adrian Fein,22,Germany,Defensive Midfield,DM,700000.0,Greuther Fürth,Germany,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+RB Leipzig,Michaël Cuisance,22,France,Central Midfield,CM,4000000.0,Venezia,Italy,4000000.0,out,winter,1 Bundesliga,2021,False,
+RB Leipzig,Bright Arrey-Mbi,18,Germany,Centre-Back,CB,800000.0,1. FC Köln,Germany,0.0,out,winter,1 Bundesliga,2021,True,free loan
+RB Leipzig,Adrian Fein,22,Germany,Defensive Midfield,DM,700000.0,Dynamo Dresden,Germany,0.0,out,winter,1 Bundesliga,2021,True,free loan
+SC Freiburg,Florian Müller,23,Germany,Goalkeeper,GK,5500000.0,1.FSV Mainz 05,Germany,5000000.0,in,summer,1 Bundesliga,2021,False,
+SC Freiburg,Wahid Faghir,18,Denmark,Centre-Forward,CF,3000000.0,Vejle BK,Denmark,3500000.0,in,summer,1 Bundesliga,2021,False,
+SC Freiburg,Chris Führich,23,Germany,Right Winger,RW,4000000.0,SC Paderborn,Germany,2500000.0,in,summer,1 Bundesliga,2021,False,
+SC Freiburg,Enzo Millot,19,France,Central Midfield,CM,2000000.0,Monaco,France,1750000.0,in,summer,1 Bundesliga,2021,False,
+SC Freiburg,Naouirou Ahamada,19,France,Defensive Midfield,DM,4000000.0,Juventus U23,Italy,1500000.0,in,summer,1 Bundesliga,2021,False,
+SC Freiburg,Hiroki Ito,22,Japan,Centre-Back,CB,4500000.0,Júbilo Iwata,Japan,100000.0,in,summer,1 Bundesliga,2021,True,loan with fee
+SC Freiburg,Ömer Beyaz,17,Turkey,Attacking Midfield,AM,800000.0,Fenerbahce,Turkey,0.0,in,summer,1 Bundesliga,2021,False,
+SC Freiburg,Omar Marmoush,22,Egypt,Left Winger,LW,6000000.0,VfL Wolfsburg,Germany,0.0,in,summer,1 Bundesliga,2021,True,free loan
+SC Freiburg,Pablo Maffeo,23,Spain,Right-Back,RB,5000000.0,SD Huesca,Spain,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+SC Freiburg,Maxime Awoudja,23,Germany,Centre-Back,CB,500000.0,Türkgücü Münch.,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+SC Freiburg,Nikolas Nartey,21,Denmark,Central Midfield,CM,1800000.0,SV Sandhausen,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+SC Freiburg,Nicolás González,23,Argentina,Left Winger,LW,25000000.0,Fiorentina,Italy,24500000.0,out,summer,1 Bundesliga,2021,False,
+SC Freiburg,Gregor Kobel,23,Switzerland,Goalkeeper,GK,22000000.0,Bor. Dortmund,Germany,15000000.0,out,summer,1 Bundesliga,2021,False,
+SC Freiburg,Pablo Maffeo,23,Spain,Right-Back,RB,5000000.0,RCD Mallorca,Spain,500000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+SC Freiburg,Jens Grahl,32,Germany,Goalkeeper,GK,200000.0,E. Frankfurt,Germany,250000.0,out,summer,1 Bundesliga,2021,False,
+SC Freiburg,Darko Churlinov,21,North Macedonia,Left Winger,LW,3000000.0,FC Schalke 04,Germany,100000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+SC Freiburg,Marcin Kaminski,29,Poland,Centre-Back,CB,1000000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+SC Freiburg,Luca Mack,21,Germany,Defensive Midfield,DM,200000.0,Újpest FC,Hungary,,out,summer,1 Bundesliga,2021,False,
+SC Freiburg,Maxime Awoudja,23,Germany,Centre-Back,CB,500000.0,WSG Tirol,Austria,0.0,out,summer,1 Bundesliga,2021,True,free loan
+SC Freiburg,Antonis Aidonis,20,Germany,Centre-Back,CB,350000.0,Dynamo Dresden,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+SC Freiburg,Gonzalo Castro,34,Germany,Central Midfield,CM,,Without Club,,,out,summer,1 Bundesliga,2021,False,
+SC Freiburg,Naouirou Ahamada,19,France,Defensive Midfield,DM,4000000.0,Juventus U23,Italy,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+SC Freiburg,Tiago Tomás,19,Portugal,Centre-Forward,CF,7000000.0,Sporting CP,Portugal,500000.0,in,winter,1 Bundesliga,2021,True,loan with fee
+SC Freiburg,Marc Oliver Kempf,26,Germany,Centre-Back,CB,4500000.0,Hertha BSC,Germany,500000.0,out,winter,1 Bundesliga,2021,False,
+SC Freiburg,Hamadi Al Ghaddioui,31,Morocco,Centre-Forward,CF,700000.0,Pafos FC,Cyprus,70000.0,out,winter,1 Bundesliga,2021,False,
+SC Freiburg,Momo Cissé,19,Guinea,Right Winger,RW,400000.0,Wisla Kraków,Poland,0.0,out,winter,1 Bundesliga,2021,True,free loan
+SC Freiburg,Philipp Klement,29,Germany,Attacking Midfield,AM,850000.0,SC Paderborn,Germany,0.0,out,winter,1 Bundesliga,2021,True,free loan
+SpVgg Greuther Fürth,Christopher Antwi-Adjei,27,Ghana,Left Winger,LW,1000000.0,SC Paderborn,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Patrick Osterhage,21,Germany,Central Midfield,CM,900000.0,B. Dortmund II,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Michael Esser,33,Germany,Goalkeeper,GK,400000.0,Hannover 96,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Sebastian Polter,30,Germany,Centre-Forward,CF,2200000.0,Fortuna Sittard,Netherlands,0.0,in,summer,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Eduard Löwen,24,Germany,Central Midfield,CM,2000000.0,Hertha BSC,Germany,0.0,in,summer,1 Bundesliga,2021,True,free loan
+SpVgg Greuther Fürth,Konstantinos Stafylidis,27,Greece,Left-Back,LB,1800000.0,TSG Hoffenheim,Germany,0.0,in,summer,1 Bundesliga,2021,True,free loan
+SpVgg Greuther Fürth,Elvis Rexhbecaj,23,Germany,Central Midfield,CM,2500000.0,VfL Wolfsburg,Germany,0.0,in,summer,1 Bundesliga,2021,True,free loan
+SpVgg Greuther Fürth,Takuma Asano,26,Japan,Right Winger,RW,3000000.0,Without Club,,,in,summer,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Lars Holtkamp,19,Germany,Defensive Midfield,DM,75000.0,Wuppertaler SV,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+SpVgg Greuther Fürth,Moritz Römling,20,Germany,Left-Back,LB,200000.0,Wuppertaler SV,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+SpVgg Greuther Fürth,Robert Zulj,29,Austria,Attacking Midfield,AM,2000000.0,Ittihad Kalba,United Arab Emirates,350000.0,out,summer,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Patrick Drewes,28,Germany,Goalkeeper,GK,600000.0,SV Sandhausen,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Lars Holtkamp,19,Germany,Defensive Midfield,DM,75000.0,Bonner SC,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Baris Ekincier,22,Azerbaijan,Left Winger,LW,100000.0,Waldh. Mannheim,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Moritz Römling,20,Germany,Left-Back,LB,200000.0,Türkgücü Münch.,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+SpVgg Greuther Fürth,Thomas Eisfeld,28,Germany,Attacking Midfield,AM,300000.0,Without Club,,,out,summer,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Jürgen Locadia,28,Netherlands,Centre-Forward,CF,2000000.0,Brighton,England,0.0,in,winter,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Moritz Römling,20,Germany,Left-Back,LB,200000.0,Türkgücü Münch.,Germany,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+SpVgg Greuther Fürth,Raman Chibsah,28,Ghana,Central Midfield,CM,250000.0,Apollon Smyrnis,Greece,0.0,out,winter,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Soma Novothny,27,Hungary,Centre-Forward,CF,400000.0,Anorthosis,Cyprus,,out,winter,1 Bundesliga,2021,False,
+SpVgg Greuther Fürth,Silvère Ganvoula,25,Congo,Centre-Forward,CF,600000.0,Cercle Brugge,Belgium,0.0,out,winter,1 Bundesliga,2021,True,free loan
+TSG 1899 Hoffenheim,Maximilian Eggestein,24,Germany,Central Midfield,CM,8000000.0,Werder Bremen,Germany,5000000.0,in,summer,1 Bundesliga,2021,False,
+TSG 1899 Hoffenheim,Patrick Kammerbauer,24,Germany,Defensive Midfield,DM,300000.0,E. Braunschweig,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+TSG 1899 Hoffenheim,Amir Abrashi,31,Albania,Defensive Midfield,DM,400000.0,FC Basel,Switzerland,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+TSG 1899 Hoffenheim,Florian Kath,26,Germany,Left Winger,LW,250000.0,1.FC Magdeburg,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+TSG 1899 Hoffenheim,Brandon Borrello,25,Australia,Right Winger,RW,500000.0,F. Düsseldorf,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+TSG 1899 Hoffenheim,Nico Schlotterbeck,21,Germany,Centre-Back,CB,33000000.0,Union Berlin,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+TSG 1899 Hoffenheim,Chima Okoroji,24,England,Left-Back,LB,1000000.0,SC Paderborn,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+TSG 1899 Hoffenheim,Baptiste Santamaria,26,France,Central Midfield,CM,16000000.0,Stade Rennais,France,14000000.0,out,summer,1 Bundesliga,2021,False,
+TSG 1899 Hoffenheim,Brandon Borrello,25,Australia,Right Winger,RW,500000.0,Dynamo Dresden,Germany,250000.0,out,summer,1 Bundesliga,2021,False,
+TSG 1899 Hoffenheim,Chima Okoroji,24,England,Left-Back,LB,1000000.0,SV Sandhausen,Germany,100000.0,out,summer,1 Bundesliga,2021,False,
+TSG 1899 Hoffenheim,Lino Tempelmann,22,Germany,Central Midfield,CM,2000000.0,1.FC Nuremberg,Germany,50000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+TSG 1899 Hoffenheim,Chang-hoon Kwon,27,"Korea, South",Right Winger,RW,1500000.0,Suwon Bluewings,"Korea, South",0.0,out,summer,1 Bundesliga,2021,False,
+TSG 1899 Hoffenheim,Florian Kath,26,Germany,Left Winger,LW,250000.0,1.FC Magdeburg,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+TSG 1899 Hoffenheim,Amir Abrashi,31,Albania,Defensive Midfield,DM,400000.0,Grasshoppers,Switzerland,0.0,out,summer,1 Bundesliga,2021,False,
+TSG 1899 Hoffenheim,Niclas Thiede,22,Germany,Goalkeeper,GK,250000.0,SC Verl,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+TSG 1899 Hoffenheim,Florian Müller,23,Germany,Goalkeeper,GK,5500000.0,1.FSV Mainz 05,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+TSG 1899 Hoffenheim,Guus Til,23,Netherlands,Attacking Midfield,AM,7500000.0,Spartak Moscow,Russia,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+TSG 1899 Hoffenheim,Hugo Siquet,19,Belgium,Right-Back,RB,4000000.0,Standard Liège,Belgium,4500000.0,in,winter,1 Bundesliga,2021,False,
+TSG 1899 Hoffenheim,Dominique Heintz,28,Germany,Centre-Back,CB,2500000.0,Union Berlin,Germany,150000.0,out,winter,1 Bundesliga,2021,False,
+VfB Stuttgart,Hannes Wolf,22,Austria,Attacking Midfield,AM,4000000.0,RB Leipzig,Germany,9500000.0,in,summer,1 Bundesliga,2021,False,
+VfB Stuttgart,Luca Netz,18,Germany,Left-Back,LB,6500000.0,Hertha BSC,Germany,2000000.0,in,summer,1 Bundesliga,2021,False,
+VfB Stuttgart,Andreas Poulsen,21,Denmark,Left-Back,LB,300000.0,Austria Vienna,Austria,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfB Stuttgart,László Bénes,23,Slovakia,Central Midfield,CM,2000000.0,FC Augsburg,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfB Stuttgart,Kouadio Koné,20,France,Central Midfield,CM,25000000.0,Toulouse,France,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfB Stuttgart,Keanan Bennetts,22,Germany,Left Midfield,LM,1000000.0,Ipswich,England,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfB Stuttgart,Moritz Nicolas,23,Germany,Goalkeeper,GK,350000.0,VfL Osnabrück,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfB Stuttgart,Andreas Poulsen,21,Denmark,Left-Back,LB,300000.0,FC Ingolstadt,Germany,100000.0,out,summer,1 Bundesliga,2021,True,loan with fee
+VfB Stuttgart,Julio Villalba,22,Paraguay,Centre-Forward,CF,250000.0,Guayaquil City,Ecuador,0.0,out,summer,1 Bundesliga,2021,False,
+VfB Stuttgart,Oscar Wendt,35,Sweden,Left-Back,LB,500000.0,IFK Göteborg,Sweden,0.0,out,summer,1 Bundesliga,2021,False,
+VfB Stuttgart,Max Grün,34,Germany,Goalkeeper,GK,100000.0,Aschaffenburg,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+VfB Stuttgart,Michael Lang,30,Switzerland,Right-Back,RB,600000.0,FC Basel,Switzerland,,out,summer,1 Bundesliga,2021,False,
+VfB Stuttgart,Famana Quizera,19,Portugal,Right Winger,RW,250000.0,Académico Viseu,Portugal,0.0,out,summer,1 Bundesliga,2021,True,free loan
+VfB Stuttgart,Rocco Reitz,19,Germany,Central Midfield,CM,650000.0,Sint-Truiden,Belgium,0.0,out,summer,1 Bundesliga,2021,True,free loan
+VfB Stuttgart,Moritz Nicolas,23,Germany,Goalkeeper,GK,350000.0,Viktoria Köln,Germany,0.0,out,summer,1 Bundesliga,2021,True,free loan
+VfB Stuttgart,Ibrahima Traoré,33,Guinea,Right Winger,RW,150000.0,Without Club,,,out,summer,1 Bundesliga,2021,False,
+VfB Stuttgart,Valentino Lazaro,25,Austria,Right-Back,RB,6000000.0,Inter,Italy,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+VfB Stuttgart,Hannes Wolf,22,Austria,Attacking Midfield,AM,4000000.0,RB Leipzig,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+VfB Stuttgart,Marvin Friedrich,26,Germany,Centre-Back,CB,8000000.0,Union Berlin,Germany,5500000.0,in,winter,1 Bundesliga,2021,False,
+VfB Stuttgart,Denis Zakaria,25,Switzerland,Defensive Midfield,DM,27000000.0,Juventus,Italy,8600000.0,out,winter,1 Bundesliga,2021,False,
+VfB Stuttgart,Torben Müsel,22,Germany,Attacking Midfield,AM,250000.0,KAS Eupen,Belgium,0.0,out,winter,1 Bundesliga,2021,True,free loan
+VfB Stuttgart,Hannes Wolf,22,Austria,Attacking Midfield,AM,4000000.0,Swansea,England,0.0,out,winter,1 Bundesliga,2021,True,free loan
+VfL Bochum,Luca Kilian,21,Germany,Centre-Back,CB,4500000.0,1.FSV Mainz 05,Germany,250000.0,in,summer,1 Bundesliga,2021,True,loan with fee
+VfL Bochum,Dejan Ljubicic,23,Austria,Defensive Midfield,DM,8500000.0,Rapid Vienna,Austria,0.0,in,summer,1 Bundesliga,2021,False,
+VfL Bochum,Mark Uth,29,Germany,Second Striker,SS,3000000.0,FC Schalke 04,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+VfL Bochum,Timo Hübers,24,Germany,Centre-Back,CB,7500000.0,Hannover 96,Germany,0.0,in,summer,1 Bundesliga,2021,False,
+VfL Bochum,Marvin Schwäbe,26,Germany,Goalkeeper,GK,4000000.0,Bröndby IF,Denmark,0.0,in,summer,1 Bundesliga,2021,False,
+VfL Bochum,Birger Verstraete,27,Belgium,Defensive Midfield,DM,2500000.0,Royal Antwerp,Belgium,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Niklas Hauptmann,25,Germany,Central Midfield,CM,350000.0,Holstein Kiel,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Yann Aurel Bisseck,20,Germany,Centre-Back,CB,1000000.0,Guimarães B,Portugal,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Kingsley Schindler,27,Germany,Right-Back,RB,800000.0,Hannover 96,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Tomas Ostrak,21,Czech Republic,Attacking Midfield,AM,750000.0,Karvina,Czech Republic,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Vincent Koziello,25,France,Central Midfield,CM,500000.0,Nacional,Portugal,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Marcel Risse,31,Germany,Right Winger,RW,450000.0,Viktoria Köln,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Lasse Sobiech,30,Germany,Centre-Back,CB,600000.0,FC Zürich,Switzerland,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Louis Schaub,26,Austria,Attacking Midfield,AM,1500000.0,FC Luzern,Switzerland,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Anthony Modeste,33,France,Centre-Forward,CF,4000000.0,Saint-Étienne,France,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Sebastiaan Bornauw,22,Belgium,Centre-Back,CB,10000000.0,VfL Wolfsburg,Germany,13500000.0,out,summer,1 Bundesliga,2021,False,
+VfL Bochum,Ismail Jakobs,21,Senegal,Left-Back,LB,7000000.0,Monaco,France,6500000.0,out,summer,1 Bundesliga,2021,False,
+VfL Bochum,Birger Verstraete,27,Belgium,Defensive Midfield,DM,2500000.0,Royal Antwerp,Belgium,2000000.0,out,summer,1 Bundesliga,2021,False,
+VfL Bochum,Max Meyer,25,Germany,Central Midfield,CM,500000.0,Fenerbahce,Turkey,0.0,out,summer,1 Bundesliga,2021,False,
+VfL Bochum,Vincent Koziello,25,France,Central Midfield,CM,500000.0,KV Oostende,Belgium,0.0,out,summer,1 Bundesliga,2021,False,
+VfL Bochum,Marco Höger,31,Germany,Defensive Midfield,DM,450000.0,Waldh. Mannheim,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+VfL Bochum,Dominick Drexler,31,Germany,Attacking Midfield,AM,900000.0,FC Schalke 04,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+VfL Bochum,Lasse Sobiech,30,Germany,Centre-Back,CB,600000.0,Darmstadt 98,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+VfL Bochum,Julian Krahl,21,Germany,Goalkeeper,GK,200000.0,Viktoria Berlin,Germany,0.0,out,summer,1 Bundesliga,2021,False,
+VfL Bochum,João Queirós,23,Portugal,Centre-Back,CB,125000.0,Chaves,Portugal,,out,summer,1 Bundesliga,2021,False,
+VfL Bochum,Marcel Risse,31,Germany,Right Winger,RW,450000.0,Viktoria Köln,Germany,,out,summer,1 Bundesliga,2021,False,
+VfL Bochum,Robert Voloder,20,Germany,Centre-Back,CB,1500000.0,NK Maribor,Slovenia,0.0,out,summer,1 Bundesliga,2021,True,free loan
+VfL Bochum,Yann Aurel Bisseck,20,Germany,Centre-Back,CB,1000000.0,Aarhus GF,Denmark,0.0,out,summer,1 Bundesliga,2021,True,free loan
+VfL Bochum,Dimitrios Limnios,23,Greece,Right Winger,RW,2000000.0,Twente FC,Netherlands,0.0,out,summer,1 Bundesliga,2021,True,free loan
+VfL Bochum,Emmanuel Dennis,23,Nigeria,Centre-Forward,CF,14000000.0,Club Brugge,Belgium,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Ron-Robert Zieler,32,Germany,Goalkeeper,GK,700000.0,Hannover 96,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Tolu Arokodare,20,Nigeria,Centre-Forward,CF,1500000.0,Valmiera,Latvia,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Elvis Rexhbecaj,23,Germany,Central Midfield,CM,2500000.0,VfL Wolfsburg,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Marius Wolf,26,Germany,Right-Back,RB,6500000.0,Bor. Dortmund,Germany,0.0,out,summer,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Julian Chabot,23,Germany,Centre-Back,CB,2000000.0,Sampdoria,Italy,300000.0,in,winter,1 Bundesliga,2021,True,loan with fee
+VfL Bochum,Bright Arrey-Mbi,18,Germany,Centre-Back,CB,800000.0,Bayern Munich,Germany,0.0,in,winter,1 Bundesliga,2021,True,free loan
+VfL Bochum,Robert Voloder,20,Germany,Centre-Back,CB,1500000.0,NK Maribor,Slovenia,0.0,in,winter,1 Bundesliga,2021,True,end of loan
+VfL Bochum,Jorge Meré,24,Spain,Centre-Back,CB,2000000.0,América,Mexico,900000.0,out,winter,1 Bundesliga,2021,False,
+VfL Bochum,Rafael Czichos,31,Germany,Centre-Back,CB,1000000.0,Chicago,United States,455000.0,out,winter,1 Bundesliga,2021,False,
+VfL Bochum,Robert Voloder,20,Germany,Centre-Back,CB,1500000.0,NK Maribor,Slovenia,100000.0,out,winter,1 Bundesliga,2021,False,
+VfL Bochum,Sava-Arangel Cestic,20,Serbia,Centre-Back,CB,700000.0,HNK Rijeka,Croatia,0.0,out,winter,1 Bundesliga,2021,False,
+VfL Bochum,Noah Katterbach,20,Germany,Left-Back,LB,1700000.0,FC Basel,Switzerland,0.0,out,winter,1 Bundesliga,2021,True,free loan
+VfL Wolfsburg,Donyell Malen,22,Netherlands,Left Winger,LW,27000000.0,PSV Eindhoven,Netherlands,30000000.0,in,summer,1 Bundesliga,2021,False,
+VfL Wolfsburg,Gregor Kobel,23,Switzerland,Goalkeeper,GK,22000000.0,VfB Stuttgart,Germany,15000000.0,in,summer,1 Bundesliga,2021,False,
+VfL Wolfsburg,Marin Pongracic,23,Croatia,Centre-Back,CB,6000000.0,VfL Wolfsburg,Germany,0.0,in,summer,1 Bundesliga,2021,True,free loan
+VfL Wolfsburg,Jeremy Toljan,26,Germany,Right-Back,RB,5000000.0,Sassuolo,Italy,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Wolfsburg,Leonardo Balerdi,22,Argentina,Centre-Back,CB,10000000.0,Marseille,France,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Wolfsburg,Sergio Gómez,20,Spain,Left-Back,LB,13000000.0,SD Huesca,Spain,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Wolfsburg,Immanuel Pherai,20,Netherlands,Attacking Midfield,AM,1000000.0,PEC Zwolle,Netherlands,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Wolfsburg,Marius Wolf,26,Germany,Right-Back,RB,6500000.0,1. FC Köln,Germany,0.0,in,summer,1 Bundesliga,2021,True,end of loan
+VfL Wolfsburg,Jadon Sancho,21,England,Left Winger,LW,75000000.0,Man Utd,England,85000000.0,out,summer,1 Bundesliga,2021,False,
+VfL Wolfsburg,Leonardo Balerdi,22,Argentina,Centre-Back,CB,10000000.0,Marseille,France,11000000.0,out,summer,1 Bundesliga,2021,False,
+VfL Wolfsburg,Thomas Delaney,29,Denmark,Central Midfield,CM,7000000.0,Sevilla FC,Spain,6000000.0,out,summer,1 Bundesliga,2021,False,
+VfL Wolfsburg,Jeremy Toljan,26,Germany,Right-Back,RB,5000000.0,Sassuolo,Italy,3500000.0,out,summer,1 Bundesliga,2021,False,
+VfL Wolfsburg,Sergio Gómez,20,Spain,Left-Back,LB,13000000.0,RSC Anderlecht,Belgium,3500000.0,out,summer,1 Bundesliga,2021,False,
+VfL Wolfsburg,Lukasz Piszczek,36,Poland,Right-Back,RB,,Goczalkowice,Poland,0.0,out,summer,1 Bundesliga,2021,False,
+VfL Wolfsburg,Ansgar Knauff,20,Germany,Right Winger,RW,10000000.0,E. Frankfurt,Germany,400000.0,out,winter,1 Bundesliga,2021,True,loan with fee
+VfL Wolfsburg,Tobias Raschl,21,Germany,Central Midfield,CM,1000000.0,Greuther Fürth,Germany,100000.0,out,winter,1 Bundesliga,2021,False,

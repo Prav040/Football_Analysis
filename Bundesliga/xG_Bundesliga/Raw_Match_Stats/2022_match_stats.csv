@@ -1,0 +1,129 @@
+,team,match_result,goals,xG,shots,shots on Target,actual Points,xPTS,match_id
+0,Eintracht Frankfurt,L,1,0.76,8,2,0,0.03,19342
+1,Bayern Munich,W,6,4.56,23,10,3,2.95,19342
+0,Union Berlin,W,3,1.18,19,8,3,2.10,19343
+1,Hertha Berlin,L,1,0.35,7,3,0,0.61,19343
+0,Borussia M.Gladbach,W,3,2.07,18,7,3,2.75,19344
+1,Hoffenheim,L,1,0.12,2,1,0,0.14,19344
+0,Wolfsburg,D,2,0.95,11,3,1,1.21,19345
+1,Werder Bremen,D,2,1.04,10,4,1,1.45,19345
+0,Bochum,L,1,0.82,15,3,0,0.75,19346
+1,Mainz 05,W,2,1.59,13,6,3,1.99,19346
+0,Augsburg,L,0,0.59,11,2,0,0.62,19347
+1,Freiburg,W,4,1.54,19,7,3,2.13,19347
+0,Borussia Dortmund,W,1,2.38,15,4,3,2.27,19348
+1,Bayer Leverkusen,L,0,1.24,8,3,0,0.52,19348
+0,VfB Stuttgart,D,1,0.57,11,2,1,0.34,19349
+1,RasenBallsport Leipzig,D,1,2.13,27,9,1,2.50,19349
+0,FC Cologne,W,3,4.42,32,12,3,2.99,19350
+1,Schalke 04,L,1,0.23,5,2,0,0.01,19350
+0,Freiburg,L,1,1.08,16,7,0,1.60,19351
+1,Borussia Dortmund,W,3,0.78,13,6,3,1.07,19351
+0,Bayer Leverkusen,L,1,2.78,24,10,0,2.63,19352
+1,Augsburg,W,2,0.75,6,4,3,0.25,19352
+0,RasenBallsport Leipzig,D,2,1.18,9,5,1,1.08,19353
+1,FC Cologne,D,2,1.52,13,4,1,1.63,19353
+0,Werder Bremen,D,2,0.70,5,3,1,0.79,19354
+1,VfB Stuttgart,D,2,1.32,14,7,1,1.91,19354
+0,Hoffenheim,W,3,2.38,23,12,3,2.04,19355
+1,Bochum,L,2,1.47,11,5,0,0.72,19355
+0,Hertha Berlin,D,1,2.06,12,5,1,2.02,19356
+1,Eintracht Frankfurt,D,1,1.20,11,1,1,0.75,19356
+0,Schalke 04,D,2,1.69,12,4,1,1.60,19357
+1,Borussia M.Gladbach,D,2,1.41,14,8,1,1.12,19357
+0,Mainz 05,D,0,0.65,11,5,1,1.64,19358
+1,Union Berlin,D,0,0.30,10,2,1,0.91,19358
+0,Bayern Munich,W,2,1.40,24,8,3,2.16,19359
+1,Wolfsburg,L,0,0.44,8,2,0,0.58,19359
+0,Borussia M.Gladbach,W,1,2.27,11,6,3,2.37,19360
+1,Hertha Berlin,L,0,0.97,17,4,0,0.46,19360
+0,Wolfsburg,D,0,1.21,18,6,1,1.45,19361
+1,Schalke 04,D,0,1.03,10,2,1,1.22,19361
+0,Augsburg,L,1,0.31,7,2,0,0.19,19362
+1,Mainz 05,W,2,2.05,13,6,3,2.70,19362
+0,VfB Stuttgart,L,0,0.77,17,4,0,1.15,19363
+1,Freiburg,W,1,0.90,9,3,3,1.50,19363
+0,Borussia Dortmund,L,2,0.63,6,4,0,0.86,19364
+1,Werder Bremen,W,3,1.20,14,7,3,1.82,19364
+0,Bayer Leverkusen,L,0,1.10,14,3,0,1.17,19365
+1,Hoffenheim,W,3,1.30,10,5,3,1.54,19365
+0,Union Berlin,W,2,0.64,7,3,3,1.04,19366
+1,RasenBallsport Leipzig,L,1,0.96,16,2,0,1.62,19366
+0,Eintracht Frankfurt,D,1,0.54,9,3,1,1.58,19367
+1,FC Cologne,D,1,0.24,5,2,1,0.90,19367
+0,Bochum,L,0,0.75,13,7,0,0.06,19368
+1,Bayern Munich,W,7,3.98,22,12,3,2.91,19368
+0,Freiburg,W,1,4.41,29,12,3,2.91,19369
+1,Bochum,L,0,1.13,15,5,0,0.06,19369
+0,RasenBallsport Leipzig,W,2,3.79,16,7,3,2.93,19370
+1,Wolfsburg,L,0,0.52,9,4,0,0.04,19370
+0,Mainz 05,L,0,1.62,18,3,0,1.52,19371
+1,Bayer Leverkusen,W,3,1.40,8,5,3,1.20,19371
+0,Hoffenheim,W,1,2.00,21,5,3,2.50,19372
+1,Augsburg,L,0,0.46,11,1,0,0.33,19372
+0,Hertha Berlin,L,0,0.35,13,3,0,0.11,19373
+1,Borussia Dortmund,W,1,2.97,21,7,3,2.83,19373
+0,Schalke 04,L,1,1.87,16,7,0,2.02,19374
+1,Union Berlin,W,6,1.07,12,7,3,0.75,19374
+0,Bayern Munich,D,1,3.17,33,20,1,2.84,19375
+1,Borussia M.Gladbach,D,1,0.55,5,3,1,0.11,19375
+0,FC Cologne,D,0,0.39,7,2,1,0.28,19376
+1,VfB Stuttgart,D,0,1.97,14,5,1,2.57,19376
+0,Werder Bremen,L,3,1.89,10,4,0,1.38,19377
+1,Eintracht Frankfurt,W,4,1.87,10,7,3,1.35,19377
+0,Borussia Dortmund,W,1,2.52,15,5,3,2.77,19378
+1,Hoffenheim,L,0,0.36,7,2,0,0.15,19378
+0,Bayer Leverkusen,L,2,1.80,15,6,0,0.88,19379
+1,Freiburg,W,3,2.35,6,4,3,1.85,19379
+0,Union Berlin,D,1,0.44,7,2,1,0.57,19380
+1,Bayern Munich,D,1,1.38,21,6,1,2.16,19380
+0,VfB Stuttgart,D,1,0.71,13,3,1,0.41,19381
+1,Schalke 04,D,1,2.10,12,3,1,2.41,19381
+0,Wolfsburg,L,2,0.97,9,3,0,0.24,19382
+1,FC Cologne,W,4,3.08,18,5,3,2.65,19382
+0,Bochum,L,0,1.23,20,6,0,0.81,19383
+1,Werder Bremen,W,2,1.99,16,7,3,1.95,19383
+0,Eintracht Frankfurt,W,4,3.63,14,9,3,2.97,19384
+1,RasenBallsport Leipzig,L,0,0.22,4,0,0,0.01,19384
+0,Augsburg,L,0,0.31,7,1,0,0.06,19385
+1,Hertha Berlin,W,2,2.87,15,6,3,2.90,19385
+0,Borussia M.Gladbach,L,0,1.71,14,2,0,2.27,19386
+1,Mainz 05,W,1,0.63,11,5,3,0.52,19386
+0,Werder Bremen,L,0,1.84,12,7,0,1.39,19387
+1,Augsburg,W,1,1.78,15,6,3,1.33,19387
+0,Bayern Munich,D,2,2.30,19,6,1,2.17,19388
+1,VfB Stuttgart,D,2,1.19,7,3,1,0.61,19388
+0,RasenBallsport Leipzig,W,3,1.70,15,5,3,2.48,19389
+1,Borussia Dortmund,L,0,0.33,5,0,0,0.33,19389
+0,Hoffenheim,W,4,4.65,21,9,3,2.91,19390
+1,Mainz 05,L,1,1.09,9,2,0,0.06,19390
+0,Eintracht Frankfurt,L,0,0.45,10,0,0,0.80,19391
+1,Wolfsburg,W,1,0.97,7,3,3,1.85,19391
+0,Hertha Berlin,D,2,2.35,17,6,1,1.82,19392
+1,Bayer Leverkusen,D,2,1.77,11,5,1,0.95,19392
+0,Schalke 04,W,3,1.41,20,8,3,1.43,19393
+1,Bochum,L,1,1.31,10,2,0,1.29,19393
+0,FC Cologne,L,0,0.88,8,3,0,0.80,19394
+1,Union Berlin,W,1,1.51,12,3,3,1.92,19394
+0,Freiburg,D,0,0.99,12,7,1,1.01,19395
+1,Borussia M.Gladbach,D,0,1.38,14,5,1,1.70,19395
+0,Mainz 05,D,1,0.39,10,2,1,1.17,19396
+1,Hertha Berlin,D,1,0.44,4,2,1,1.33,19396
+0,Borussia Dortmund,W,1,2.53,16,5,3,2.88,19397
+1,Schalke 04,L,0,0.10,3,0,0,0.06,19397
+0,Bayer Leverkusen,D,1,1.82,19,7,1,1.25,19398
+1,Werder Bremen,D,1,2.02,19,7,1,1.51,19398
+0,Augsburg,W,1,2.21,11,4,3,1.68,19399
+1,Bayern Munich,L,0,1.82,19,6,0,1.09,19399
+0,VfB Stuttgart,L,1,0.77,15,2,0,0.77,19400
+1,Eintracht Frankfurt,W,3,1.49,13,8,3,1.96,19400
+0,Borussia M.Gladbach,W,3,2.98,21,10,3,2.41,19401
+1,RasenBallsport Leipzig,L,0,1.26,12,5,0,0.44,19401
+0,Union Berlin,W,2,1.07,16,4,3,2.13,19402
+1,Wolfsburg,L,0,0.22,5,0,0,0.55,19402
+0,Bochum,D,1,0.29,7,0,1,0.29,19403
+1,FC Cologne,D,1,1.81,18,3,1,2.53,19403
+0,Hoffenheim,D,0,0.74,10,3,1,1.37,19404
+1,Freiburg,D,0,0.68,14,4,1,1.25,19404
+0,Bayern Munich,W,4,2.13,20,9,3,2.22,19405
+1,Bayer Leverkusen,L,0,0.94,10,5,0,0.58,19405
