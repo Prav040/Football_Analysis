@@ -1,4 +1,4 @@
-,min,x,y,xG,team,player,result,situation,season,date,match_id,player_assisted,lastAction
+,min,x,y,xG,team,player,result,situation,season,datum,match_id,player_assisted,lastAction
 0,1,0.8430000305175781,0.2860000038146972,0.0304851997643709,Augsburg,Andi Zeqiri,BlockedShot,OpenPlay,2021,2021-10-17 15:30:00,17580,,None
 1,1,0.8130000305175781,0.4479999923706054,0.0372618846595287,Augsburg,Daniel Caligiuri,MissedShots,FromCorner,2021,2021-10-17 15:30:00,17580,,None
 2,7,0.945,0.3979999923706054,0.0548703409731388,Augsburg,Tobias Strobl,SavedShot,FromCorner,2021,2021-10-17 15:30:00,17580,Daniel Caligiuri,Cross

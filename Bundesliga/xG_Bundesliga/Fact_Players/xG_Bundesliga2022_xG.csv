@@ -1,4 +1,4 @@
-,min,x,y,xG,team,player,result,situation,season,date,match_id,player_assisted,lastAction
+,min,x,y,xG,team,player,result,situation,season,datum,match_id,player_assisted,lastAction
 0,16,0.865,0.4640000152587891,0.0311448294669389,Bayer Leverkusen,Sardar Azmoun,SavedShot,OpenPlay,2022,2022-08-13 13:30:00,19352,Exequiel Palacios,Cross
 1,17,0.774000015258789,0.3509999847412109,0.0230245199054479,Bayer Leverkusen,Exequiel Palacios,BlockedShot,OpenPlay,2022,2022-08-13 13:30:00,19352,Adam Hlozek,Pass
 2,19,0.8230000305175781,0.2810000038146972,0.025899238884449,Bayer Leverkusen,Moussa Diaby,SavedShot,OpenPlay,2022,2022-08-13 13:30:00,19352,Exequiel Palacios,Pass
